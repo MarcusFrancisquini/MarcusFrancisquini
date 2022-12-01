@@ -1,5 +1,5 @@
 ### Heey what's up guys 🖖 
-### I'm Marcus Vinicius, front-end and mobile developer and game lover 
+### I'm Marcus Vinicius, front-end and mobile developer.
 
 ##
 
