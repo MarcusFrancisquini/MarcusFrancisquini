@@ -51,6 +51,9 @@
 <br>
 <br>
 
+<!-- estatísticas -->
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarcusFrancisquini&locale=pt-br&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2&bg_color=0d1117" height="100" alt="languages graph"  />
+
 <!-- contato -->
 <div align="left">
   <img src="contato.png">
