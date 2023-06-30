@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- wave effect -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
-<!--
-**MarcusFrancisquini/MarcusFrancisquini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- apresentação -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=Olá+👋+Meu+nome+é+Marcus+Vinicius;Seja+muito+Bem-Vindo(a)!)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<!-- sobre mim -->
+<br>
+<h2 align="left">Sobre Mim</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  💻 Curso Técnico de Informática - ✔<br>  
+  🤖 Sistemas de Informação - 1/4<br>
+</p>
+
