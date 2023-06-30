@@ -10,6 +10,3 @@
 <br>
 
 <!-- tecnologias -->
-<div align="center">
-  <img src="skills.png" align="center">
-</div>
