@@ -7,5 +7,9 @@
 <!-- sobre mim -->
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MarcusFrancisquini&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br>
+
 <!-- tecnologias -->
-<img src="habilidades.png">
+<div align="center">
+  <img src="skills.png" align="center">
+</div>
