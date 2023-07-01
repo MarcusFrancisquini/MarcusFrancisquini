@@ -66,5 +66,7 @@
   <a href="https://www.deviantart.com/lojasnegrao" target="_blank"><img src="https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white"></a>
 </div>
 
+<br>
+
 <!-- wave effect -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
